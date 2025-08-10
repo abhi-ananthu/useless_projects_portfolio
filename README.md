@@ -1,7 +1,6 @@
 ## **Project Details**
-- **Total Projects:** 3  
-- **Total Teams:** 3  
----
+- **Total Projects:** 12
+  
 ## **Projects**
 ### 1. **Nameless**
 - **Participants:**
