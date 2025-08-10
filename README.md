@@ -61,5 +61,19 @@
 - **GitHub Repo:** [Breakup Predictor](https://github.com/Adithya880/useless_project_temp)
 ---
 
+### 10. **Code Blasters**
+- **Participants:**
+  - A S Adityanarayanan
+  - Ananthapadmanabhan
+- **GitHub Repo:** [Gym Excuse Generator](https://github.com/techy-zenith/gym-excuse-generator)
+---
+
+### 11. **Clankers**
+- **Participants:**
+  - Akshay G R 
+  - Joshua John Varghese
+- **GitHub Repo:** [Rainy Odds](https://github.com/akshaygr777/useless_project_temp)
+---
+
 
 
