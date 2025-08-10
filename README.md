@@ -7,12 +7,11 @@
 
 ## 📁 Projects List
 
-### 1. **Project Title:** AI Chatbot for Mental Health  
-- **Team Name:** MindMenders  
+### 1. **Nameless**
 - **Participants:**
-  - Alice Johnson  
-  - Bob Smith  
-- **GitHub Repo:** [github.com/MindMenders/ai-mental-health-bot](https://github.com/MindMenders/ai-mental-health-bot)
+  - Abhai Sankar P R  
+  - Akhileswaran K R  
+- **GitHub Repo:** [CamBuddy](https://github.com/Akhileswaran-K-R/useless_project_temp)
 
 ---
 
