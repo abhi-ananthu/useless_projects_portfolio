@@ -36,13 +36,30 @@
   - Christor Biju
 - **GitHub Repo:** [gentharvan](https://github.com/rosyhelios/useless_project_gentharvan)
 ---
-### 5. **VERIETY**
+### 6. **VERIETY**
 - **Participants:**
   - Vinayak D 
   - Rohit Ajoy
 - **GitHub Repo:** [veezhumo](https://github.com/nerdemon/useless_project_temp)
 ---
-
+### 7. **MonochromeX**
+- **Participants:**
+  - Adithyan L 
+  - Anamika AL
+- **GitHub Repo:** [DontBlink](https://github.com/carbonite13/dontblink)
+---
+### 8. **404 Brain Not Found**
+- **Participants:**
+  - Abhin Anoop
+  - Negha R
+- **GitHub Repo:** [Pumpocalypse Countdown: Snap & Track](https://github.com/NullPioneer/useless_project_temp.git)
+---
+### 9. **Team-2**
+- **Participants:**
+  - Adithya Suresh
+  - Nandana V
+- **GitHub Repo:** [Breakup Predictor](https://github.com/Adithya880/useless_project_temp)
+---
 
 
 
