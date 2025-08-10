@@ -1,12 +1,7 @@
-# 📊 Project Summary
 
 - **Total Projects:** 3  
 - **Total Teams:** 3  
-
 ---
-
-## 📁 Projects List
-
 ### 1. **Nameless**
 - **Participants:**
   - Abhai Sankar P R  
@@ -15,18 +10,38 @@
 
 ---
 
-### 2. **Project Title:** Smart Waste Management System  
-- **Team Name:** GreenLoop  
+### 2. **GG Nexus**
 - **Participants:**
-  - Carol Evans  
-  - David Liu  
-- **GitHub Repo:** [github.com/GreenLoop/smart-waste-system](https://github.com/GreenLoop/smart-waste-system)
-
+  - Gagandeep M  
+  - Gouri Nandana J  
+- **GitHub Repo:** [Useless Tab Locker](https://github.com/Gagan004tech/useless_project_temp)
 ---
 
-### 3. **Project Title:** Real-Time Disaster Alert App  
-- **Team Name:** RapidResponse  
+### 3. **Pokemon Go**
 - **Participants:**
-  - Ethan Wright  
-  - Fiona Martinez  
-- **GitHub Repo:** [github.com/RapidResponse/disaster-alert-app](https://github.com/RapidResponse/disaster-alert-app)
+  - Kevin L 
+  - Sidharth S  
+- **GitHub Repo:** [RekhaChithram](https://github.com/Blackeye6941/RekhaChithram)
+---
+### 4. **Useful-sa**
+- **Participants:**
+  - Adithyan Manoj 
+  - Sneha S A
+- **GitHub Repo:** [Introvert Excuse Generator](https://github.com/adithyan-manoj/Introvert_excuse_generator.git)
+---
+### 5. **Cool bois**
+- **Participants:**
+  - Hridikesh S Premnath 
+  - Christor Biju
+- **GitHub Repo:** [gentharvan](https://github.com/rosyhelios/useless_project_gentharvan)
+---
+### 5. **VERIETY**
+- **Participants:**
+  - Vinayak D 
+  - Rohit Ajoy
+- **GitHub Repo:** [veezhumo](https://github.com/nerdemon/useless_project_temp)
+---
+
+
+
+
